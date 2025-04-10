@@ -28,11 +28,7 @@ A modern React + Tailwind CSS web app that allows students to generate personali
 - **React QR Code**
 - **html-to-image** (for PNG download)
 
----
 
-## 📸 Preview
-
-![screenshot](https://your-screenshot-link-if-you-have-one)
 
 ---
 
