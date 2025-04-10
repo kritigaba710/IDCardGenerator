@@ -55,7 +55,7 @@ const App = () => {
     initial={{ x: -200, opacity: 0 }}
     animate={{ x: 0, opacity: 1 }}
     transition={{ duration: 1, ease: 'easeOut' }}
-    className="text-4xl sm:text-5xl bg-gradient-to-r from-slate-700 via-slate-900 to-slate-700 text-transparent bg-clip-text font-bold text-center relative z-10"
+    className="text-4xl sm:text-5xl bg-gradient-to-r from-slate-600 via-slate-300 to-slate-600 text-transparent bg-clip-text font-bold text-center relative z-10"
   >
     <span className="text-yellow-300">{'\u2728'}</span>
     Smart Student ID Generator
